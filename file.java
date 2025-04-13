@@ -3,10 +3,12 @@ isto
 isto
 
 funkc 1
-111
+eden
+eden
 
 funkc 2
-222
+dva
+dva
 
 funkc 3
 333
