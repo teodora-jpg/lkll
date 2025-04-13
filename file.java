@@ -7,7 +7,8 @@ eden
 eden
 
 funkc 2
-222
+dva
+dva
 
 funkc 3
 333
