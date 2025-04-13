@@ -6,7 +6,8 @@ funkc 1
 111
 
 funkc 2
-222
+dva
+dva
 
 funkc 3
 333
