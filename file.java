@@ -12,7 +12,8 @@ funkc 3
 333
 
 funck 4
-444
+cetiri
+cetiri
 
 end
 end
